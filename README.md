@@ -7,7 +7,7 @@ I'm a passionate problem solver pursuing my degree in computer science:)
 - **:keyboard:Mashymo Keyboards**: an online shop for keyboard enthusiasts (disclaimer: not a real website, just a class project)
 
 ## Other
-when I'm not doing schoolwork you can find me:
+When I'm not doing schoolwork you can find me:
 - at a local cafe:tea:
 - playing computer games:video_game:
 - organizing my life on Notion:face_with_spiral_eyes:
