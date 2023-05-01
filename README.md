@@ -1,4 +1,4 @@
-### Hi, I'm Ashley!:cancer:
+# Hi, I'm Ashley!:cancer:
 
 I'm a passionate problem solver pursuing my degree in computer science:)
 
