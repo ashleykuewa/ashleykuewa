@@ -1,6 +1,6 @@
 ### Hi, I'm Ashley!
 
-I'm a passionate problem solver pursuing my degree in computer science!
+I'm a passionate problem solver pursuing my degree in computer science:)
 
 ## Current Projects
 - **Campus Connect**: a website designed for CSUF students to chat and connect with each other
