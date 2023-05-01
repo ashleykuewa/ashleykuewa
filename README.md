@@ -1,4 +1,4 @@
-# Hi, I'm Ashley!:cancer:
+# Hi, I'm Ashley:cancer:
 
 I'm a passionate problem solver pursuing my degree in computer science:)
 
@@ -6,8 +6,8 @@ I'm a passionate problem solver pursuing my degree in computer science:)
 - **:house:Campus Connect**: a website designed for CSUF students to chat and connect with each other
 - **:keyboard:Mashymo Keyboards**: an online shop for keyboard enthusiasts (disclaimer: not a real website, just a class project)
 
-## Let's Connect!
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ashleykuewa/)! 
+## Let's Connect
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ashleykuewa/)! 
 <!--
 **ashleykuewa/ashleykuewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
