@@ -1,6 +1,6 @@
 ### Hi, I'm Ashley!
-I'm a passionate problem solver currently pursuing my bachelor's degree in Computer Science at CSUF. 
-My pronouns are she/her
+-I'm a passionate problem solver currently pursuing my bachelor's degree in Computer Science at CSUF. 
+-My pronouns are she/her
 <!--
 **ashleykuewa/ashleykuewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
