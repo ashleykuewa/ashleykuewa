@@ -1,5 +1,13 @@
 ### Hi, I'm Ashley!
 
+I'm a passionate problem solver pursuing my degree in computer science!
+
+## Current Projects
+- **Campus Connect**: a website designed for CSUF students to chat and connect with each other
+- **Mashymo Keyboards**: an online shop for keyboard enthusiasts (Disclaimer: not a real website just a class project)
+
+## Let's Connect!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ashleykuewa/)! 
 <!--
 **ashleykuewa/ashleykuewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
