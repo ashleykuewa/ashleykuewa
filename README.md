@@ -3,8 +3,8 @@
 I'm a passionate problem solver pursuing my degree in computer science:)
 
 ## Current Projects
-- **Campus Connect**: a website designed for CSUF students to chat and connect with each other
-- **Mashymo Keyboards**: an online shop for keyboard enthusiasts (disclaimer: not a real website, just a class project)
+- **:house:Campus Connect**: a website designed for CSUF students to chat and connect with each other
+- **:keyboard:Mashymo Keyboards**: an online shop for keyboard enthusiasts (disclaimer: not a real website, just a class project)
 
 ## Let's Connect!
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ashleykuewa/)! 
