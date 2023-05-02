@@ -9,7 +9,7 @@ I'm a passionate problem solver pursuing my degree in computer science:)
 ## Other
 When I'm not doing schoolwork you can find me:
 - at a local cafe:tea:
-- playing computer games:video_game:
+- playing video games:video_game:
 - organizing my life on Notion:face_with_spiral_eyes:
 
 
