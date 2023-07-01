@@ -11,7 +11,7 @@ I'm a passionate problem solver pursuing my degree in computer science:)
 When I'm not doing schoolwork you can find me:
 - at a local cafe:tea:
 - playing video games:video_game:
-- organizing my life on Notion:face_with_spiral_eyes:
+- learning new hobbies!
 
 ## Let's Connect
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ashleykuewa/)! 
