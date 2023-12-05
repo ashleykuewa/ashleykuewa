@@ -8,9 +8,9 @@ I'm a passionate problem solver pursuing my degree in computer science:)
 
 ## Other
 When I'm not doing schoolwork you can find me:
-- at a local cafe:tea:
-- playing video games:video_game:
-- learning new hobbies!
+- at a local cafe🧋
+- playing video games🎮
+- learning new hobbies!🧶
 
 ## Let's Connect
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ashleykuewa/)! 
