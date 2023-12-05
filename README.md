@@ -1,11 +1,11 @@
 # Hi, I'm Ashley♋
 
-I'm a passionate problem solver pursuing my degree in computer science:)
+I'm a passionate problem solver with a degree in computer science:)
 
 ## Current Projects
 - **🩺Healthcare App**: making an app using React Native
 - **:musical_note:Spotify API Project**: playlist curator!
-
+  
 ## Other
 When I'm not doing schoolwork you can find me:
 - at a local cafe🧋
