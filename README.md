@@ -7,7 +7,7 @@ I'm a passionate problem solver with a degree in computer science:)
 - **:musical_note:Spotify API Project**: playlist curator!
   
 ## Other
-When I'm not doing schoolwork you can find me:
+When I'm not busy you can find me:
 - at a local cafe🧋
 - playing video games🎮
 - learning new hobbies!🧶
