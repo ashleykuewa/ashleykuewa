@@ -3,8 +3,7 @@
 I'm a passionate problem solver with a degree in computer science:)
 
 ## Current Projects
-- **🩺Healthcare App**: making an app using React Native
-- **:musical_note:Spotify API Project**: playlist curator!
+- **🍵Cafe Rating**: Rating local and faraway cafes based on seat and outlet availabiity, drinks and drink prices, wifi, and overall comfort!
   
 ## Other
 When I'm not busy you can find me:
